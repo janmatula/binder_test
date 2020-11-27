@@ -1,0 +1,12 @@
+name: data_exploration
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - plotly
+  - ipykernel
+  - matplotlib
+  - jinja2
+  - geopandas
+  - descartes
+prefix: C:\Users\jan.matula\Anaconda3\envs\data_exploration
